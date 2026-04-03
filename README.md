@@ -1,6 +1,6 @@
 # Simple REST API - Spring Boot
 
-Uma API REST simples desenvolvida com **Spring Boot**, equivalente a uma implementação original em Python puro.
+Uma API REST simples desenvolvida com **Spring Boot**, equivalente a uma [implementação original em Python puro](https://github.com/kellermanm0ta/python-simple-rest-api).
 
 A aplicação fornece endpoints básicos para:
 
